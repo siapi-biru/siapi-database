@@ -24,7 +24,7 @@
     "debug": "4.3.1",
     "lodash": "4.17.21",
     "p-map": "4.0.0",
-    "siapi-utils": "github:siapi-biru/siapi-utils#v3.6.5",
+    "siapi-utils": "github:siapi-biru/siapi-utils",
     "verror": "^1.10.0"
   },
   "gitHead": "231263a3535658bab1e9492c6aaaed8692d62a53"
